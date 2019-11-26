@@ -1,0 +1,11 @@
+/Users/dustinmikusko/SideStuff/C#/helloWorldTutorial/bin/Debug/netcoreapp3.0/helloWorldTutorial
+/Users/dustinmikusko/SideStuff/C#/helloWorldTutorial/bin/Debug/netcoreapp3.0/helloWorldTutorial.deps.json
+/Users/dustinmikusko/SideStuff/C#/helloWorldTutorial/bin/Debug/netcoreapp3.0/helloWorldTutorial.runtimeconfig.json
+/Users/dustinmikusko/SideStuff/C#/helloWorldTutorial/bin/Debug/netcoreapp3.0/helloWorldTutorial.runtimeconfig.dev.json
+/Users/dustinmikusko/SideStuff/C#/helloWorldTutorial/bin/Debug/netcoreapp3.0/helloWorldTutorial.dll
+/Users/dustinmikusko/SideStuff/C#/helloWorldTutorial/bin/Debug/netcoreapp3.0/helloWorldTutorial.pdb
+/Users/dustinmikusko/SideStuff/C#/helloWorldTutorial/obj/Debug/netcoreapp3.0/helloWorldTutorial.csprojAssemblyReference.cache
+/Users/dustinmikusko/SideStuff/C#/helloWorldTutorial/obj/Debug/netcoreapp3.0/helloWorldTutorial.AssemblyInfoInputs.cache
+/Users/dustinmikusko/SideStuff/C#/helloWorldTutorial/obj/Debug/netcoreapp3.0/helloWorldTutorial.AssemblyInfo.cs
+/Users/dustinmikusko/SideStuff/C#/helloWorldTutorial/obj/Debug/netcoreapp3.0/helloWorldTutorial.dll
+/Users/dustinmikusko/SideStuff/C#/helloWorldTutorial/obj/Debug/netcoreapp3.0/helloWorldTutorial.pdb
